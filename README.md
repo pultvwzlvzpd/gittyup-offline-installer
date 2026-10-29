@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Git+Client-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Gittyup Free Installer** — Gittyup is a free, open-source, cross-platform Git GUI client descended from GitAhead. Works without internet access, no account required. Full offline installation.
+**💻 Gittyup Free Installer** — Gittyup is a free, open-source, cross-platform graphical Git client for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Gittyup
 
-Gittyup is a free, open-source, cross-platform Git GUI client descended from GitAhead. It provides a clean visual history, diff viewer, and branch management on Windows, macOS, and Linux with a focus on performance and simplicity.
+Gittyup is a free, open-source, cross-platform graphical Git client for Windows, macOS, and Linux. Forked from GitAhead, Gittyup provides a commit history viewer, diff display, and support for common Git operations. As a community-maintained open-source project, Gittyup offers a no-cost Git GUI alternative without the account requirements or pricing of commercial clients.
 
 ---
 
 ## ❌ Problem: Gittyup is hard to access
 
-- **Small Community** — Limited documentation and user resources
-- **Basic Feature Set** — Missing some advanced features of commercial Git clients
-- **Development Activity** — Updates arrive infrequently from the volunteer team
-- **Limited Remote Integration** — No built-in pull request management for GitHub or GitLab
+- **Community Size** — Smaller community than major Git clients
+- **Feature Set** — Less feature-rich than GitKraken or Tower
+- **Development Pace** — Community-driven updates less frequent than commercial alternatives
+- **Integration** — Limited integration with GitHub/GitLab compared to purpose-built clients
 
 ---
 
@@ -121,7 +121,7 @@ Gittyup is a free, open-source, cross-platform Git GUI client descended from Git
 
 ---
 
-**Gittyup Free Installer** — Gittyup is a free, open-source, cross-platform Git GUI client descended from GitAhead. Install without internet connection today!
+**Gittyup Free Installer** — Gittyup is a free, open-source, cross-platform graphical Git client for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
